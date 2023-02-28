@@ -1,2 +1,3 @@
+theme: minima
 ### hello
 #### welldone!
